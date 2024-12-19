@@ -1,4 +1,4 @@
-# Topic 1: Homework - Python Development
+# Topic 1: - Python Development
 
 ## Task 1: Factory Pattern Implementation
 
@@ -124,5 +124,3 @@ Exiting the program. Goodbye!
 ---
 
 This task demonstrates how to apply the SOLID principles to create a robust and maintainable system. The design ensures that the system is scalable and adheres to clean code practices.
-
-# goit-pythonweb-hw-01
